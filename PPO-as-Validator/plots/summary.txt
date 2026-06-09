@@ -1,0 +1,12 @@
+updates=125
+last_update=125
+recent_outcome_mean_25=-0.0387
+recent_kl_mean_25=0.02356
+recent_clipfrac_mean_25=0.1862
+recent_entropy_mean_25=0.5070
+recent_optional_pass_mean_25=0.3420
+max_kl=0.04578
+max_clipfrac=0.2700
+best_eval_update=50
+best_eval_win_rate=0.5000
+last_eval_win_rate=0.5000
